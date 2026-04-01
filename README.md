@@ -1,4 +1,1 @@
-Flask Backend
-Linear Regression
-One hot encoding
-Pickle
+Flask Backend, Linear Regression, One hot encoding, Pickle
